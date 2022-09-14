@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/ellianesantiago/ProjetoPizzaria/_apis/build/status/GabrielGozzi.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/ellianesantiago/ProjetoPizzaria/_build/latest?definitionId=21&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
